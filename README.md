@@ -2,7 +2,7 @@
 
 A project from Hacking with watchOS udemy course 
 
-Download and run in simulator 
+Download and run in xcode simulator 
 
 *Caution*
 
